@@ -3,7 +3,7 @@
 # 👋 你好，我是 okxgate
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=加密货币爱好者+%7C+Web3探索者+%7C+技术分享者" alt="Typing SVG" />
+  <h2>加密货币爱好者 | Web3探索者 | 技术分享者</h2>
 </div>
 
 </div>
@@ -68,10 +68,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=okxgate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okxgate&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
